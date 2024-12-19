@@ -13,6 +13,7 @@ https://bevyengine.org/learn/quick-start/getting-started/setup/#enable-fast-comp
 ## 核心玩法(暂定)
 
 ```mermaid
+mindmap
 root(the-world)
     基于体素的创造与自动化
     潜在的政策系统与派系满意度
