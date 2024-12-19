@@ -11,7 +11,7 @@ bevy官方网站：
 https://bevyengine.org/
 
 某个bevy视频教程：
-https://www.bilibili.com/list/ml82789949?spm_id_from=333.999.0.0&oid=794361237&bvid=BV1NC4y167Qm
+https://www.youtube.com/watch?v=B6ZFuYYZCSY&list=PL2wAo2qwCxGDp9fzBOTy_kpUTSwM1iWWd&index=1
 
 ## 核心玩法(暂定)
 
