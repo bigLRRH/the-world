@@ -1,6 +1,6 @@
 # the world
 
-A war-chess game depicting the world.
+A game depicting the world.
 
 ## 背景故事（突发奇想）
 
@@ -10,3 +10,11 @@ A war-chess game depicting the world.
 
 https://bevyengine.org/learn/quick-start/getting-started/setup/#enable-fast-compiles-optional
 
+## 核心玩法
+
+```mermaid
+root(the-world)
+    基于体素的创造与自动化
+    潜在的政策系统与派系满意度
+    半自动化rts
+```
