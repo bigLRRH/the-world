@@ -10,7 +10,7 @@ A game depicting the world.
 
 https://bevyengine.org/learn/quick-start/getting-started/setup/#enable-fast-compiles-optional
 
-## 核心玩法
+## 核心玩法(暂定)
 
 ```mermaid
 root(the-world)
