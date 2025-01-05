@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=B6ZFuYYZCSY&list=PL2wAo2qwCxGDp9fzBOTy_kpUTSwM1i
 mindmap
 root(the-world)
     基于体素的创造与自动化
+        基于体素的3d选中（鼠标拉出一个立方体）
     潜在的政策系统与派系满意度
     半自动化rts
 ```
