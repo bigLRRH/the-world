@@ -1,4 +1,6 @@
-use bevy:: prelude::*;
+use bevy::prelude::*;
+
+use crate::collision_detection::Collider;
 
 #[derive(Component, Debug)]
 pub struct Velocity {
@@ -26,6 +28,7 @@ impl Acceleration {
 pub struct MovingObjectBundle {
     pub velocity: Velocity,
     pub acceleration: Acceleration,
+    pub collider: Collider,
     pub scene_root: SceneRoot,
     pub transform: Transform,
     pub visibility: Visibility,
