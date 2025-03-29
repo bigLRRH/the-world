@@ -1,3 +1,7 @@
+mod chunk;
+mod voxel;
+mod debug;
+
 use bevy::prelude::*;
 
 fn main() {
